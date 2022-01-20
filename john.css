@@ -1,0 +1,65 @@
+body{ background-size: cover;
+background-image: url("tree.jfif");
+background-color:black;
+font-size: 27px;
+font-family: impact;
+color: black;
+}
+h1, h3{ padding: 4px; border-radius:400%; text-align: center; text-transform: uppercase; background-color: seagreen; border: white 2px solid}
+
+a{text-decoration: none;
+color: black;}
+li{float: left;
+list-style: none;
+width: 140px;
+background-color:seagreen;
+border: white 2px solid;
+text-align: center;}
+li a{display: block;}
+li a:hover{background-color: skyblue;
+color: orangered;
+font-size: 25px;}
+li a:active{background-color: gray;
+color: greenyellow;}
+#a{padding: 0px;
+}
+#b{padding: 0px;
+position: relative;
+left: 143px;
+top: -30px;}
+li li{display: none;}
+li:hover li{display: block;}
+li li dt{display: none;}
+li:hover li:hover dt{display: block;}
+#d{height: 30px;}
+body{
+background-color:black;
+font-size: 27px;
+color: black;
+font-family: impact;
+}
+a{text-decoration: none;
+color: black;}
+li{float: left;
+list-style: none;
+width: 140px;
+background-color:seagreen;
+border: white 2px solid;
+text-align: center;}
+li a{display: block;}
+li a:hover{background-color: skyblue;
+color: orangered;
+fonts-size: 25px;}
+li a:active{background-color: gray;
+color: greenyellow;}
+#a{padding: 0px;
+}
+#b{padding: 0px;
+position: relative;
+left: 143px;
+top: -30px;}
+li li{display: none;}
+li:hover li{display: block;}
+li li dt{display: none;}
+li:hover li:hover dt{display: block;}
+#d{height:30px;}
